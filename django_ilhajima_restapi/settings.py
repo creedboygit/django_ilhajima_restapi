@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "restapi.apps.RestapiConfig"
+    "restapi.apps.RestapiConfig",
+    "rest_framework"
 ]
 
 MIDDLEWARE = [

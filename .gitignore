@@ -781,3 +781,4 @@ fabric.properties
 misc.xml
 *.xlsx
 *.csv
+/restapi/migrations/0001_initial.py
